@@ -1,0 +1,15 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor stuff
+.vscode/
+.idea/
+*.swp
+
+# Venus / random output files I don't need to commit
+*.log
+*.out
+
+# in case I export screenshots as some weird temp format before renaming
+*.tmp
